@@ -1,0 +1,27 @@
+
+#box1{
+    display: none;
+}
+
+#box {
+    display: none;
+}
+
+.button1 {
+    width: 90px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+span.label.label-default {
+    vertical-align: middle;
+}
+.khoangcach {
+    margin-top: 20px;
+}
+
+td {
+    display: table-cell;
+    valign: middle;
+}
+
